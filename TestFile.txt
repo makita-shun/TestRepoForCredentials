@@ -1,1 +1,1 @@
-Test File for git credentials
+Test File for git credentials - 2nd method
